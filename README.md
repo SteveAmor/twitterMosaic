@@ -4,10 +4,10 @@ Tweet picture scraper and browser image viewer.
 Add your Twitter credentials to tstream.py
 
 
-sudo ./tstream.py <hashtag>
+sudo ./tstream.py \<hashtag\>
 
 
-Where <hashtag> is the tag you want to follow without the # eg
+Where \<hashtag\> is the tag you want to follow without the # eg
 
 
 sudo ./tstream.py LondonMarathon
